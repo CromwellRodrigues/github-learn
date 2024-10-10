@@ -1,3 +1,22 @@
-in souce control 
+in source control 
+do the git commit 
+
+
+click on the icon in the left side panel 
+
+it shows dropdown Changes 
+and the files that have changed 
+
+
+on top is a blank input for commit message 
+click on the commit once message is written 
+
+when you right click on the file to be staged 
+click on Staged Changes 
+
+
+when commit and push, it will only take stuff from the staged changes 
+the changes file will be left behind .
+
 
 
