@@ -1,0 +1,25 @@
+github repo is your git repo that you push upstream to github.
+
+github allows you to access and manage your git repo with several functionality.
+
+
+from your github repo page you can :
+- view different branches 
+- view tags 
+- view commit history 
+- explore repo files 
+- view releases
+- see codebase language breakdown 
+- view the top level markdown files 
+    - readme.md 
+    - licence.md 
+
+can perform actions 
+- pinning 
+- watching
+- forking 
+-starring 
+- cloning / downloading 
+
+
+

@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="vFeUe_iJ9VZ7Bz2323ht" name="Page-1">
+        <mxGraphModel dx="576" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Remote" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Clone" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Branches&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Working Files" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="shape=flexArrow;endArrow=none;html=1;" edge="1" parent="1" target="13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="70" y="220" as="sourcePoint"/>
+                        <mxPoint x="520" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="REMOTE" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="10" y="170" width="120" height="870" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="CLONE" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="180" width="120" height="860" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="BRANCH" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="170" width="120" height="870" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="WORKING FILE&lt;br&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="452" y="170" width="128" height="880" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="PULL&amp;nbsp;" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="200" width="430" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="CHECKOUT" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="290" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="-TRACK" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="350" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="FETCH" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="55" y="430" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="RESET" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="500" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="REMOTE" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="620" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="RESET--HARD" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="345" y="620" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="MERGE" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="730" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="ADD" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="840" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="PUSH" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="860" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="COMMIT" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="870" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="COMMIT -A" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="930" width="140" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

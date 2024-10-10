@@ -1,0 +1,10 @@
+github organizations 
+
+top right icon 
+
+your organization
+    create 
+        new organisation
+
+            choose free account
+            https://github.com/organizations/plan

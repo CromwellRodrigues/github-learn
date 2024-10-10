@@ -1,0 +1,12 @@
+setup UFA with Auth and Github Mobile 
+
+multi factor authentication 
+
+github mobile 
+
+play - on mobile- install github 
+
+https://authy.com/ 
+    Enable 2FA for your favorite sites.
+Go beyond the password and protect yourself from hackers and account takeovers.
+Download our free app and follow our guides:

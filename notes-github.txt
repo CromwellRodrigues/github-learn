@@ -1,0 +1,42 @@
+Version control SERVICES 
+VCS 
+are fully managed cloud services that hosts your version controlled repositories
+
+these services often have additional functionality beyond just being a remote host for your repos.
+
+Git is the most popular and often the only choice for VCS 
+
+often we call thse services git providers 
+    github
+    gitlab
+    bitbucket 
+    sourceForge
+
+
+
+GITHUB
+owned by microsoft
+the most popular VCS offering
+due to ease of use and being around the longest.
+
+github is primarily where open source projects are hosted and offer rich functionality such as
+    issues tracking
+    automation pipelines, etc 
+
+
+    GIT REPOSITORY HOSTING 
+    Project Management Tools 
+    Issue Tracking 
+    Pull Requests and Code Review 
+    Github Pages and Wikis 
+    Github Actions
+    Github Copilot 
+    Github Codespaces 
+    Github Marketplace
+    Github Gists 
+    github discussions
+    collaborative features(organizations and teams)
+    API access and development tools (github desktop, github CLI)
+    Security features (eg. autodetecting credentials in repos)
+    Educational resouces and course automation (github classroom)
+    

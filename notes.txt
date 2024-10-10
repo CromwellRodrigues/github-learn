@@ -1,0 +1,39 @@
+Git is Distributed version control system DVCS created by Linus Torvald who also is the creator of the linux kernel 
+
+each change of the code - git commit can be captured and tracked throughout the history of your project(git tree)
+
+REPOSITORY -  logical container holding the codebase 
+
+commit - represents a change of data in the local repository 
+
+tree - represents the entire history of a repo 
+
+remote - a version of your project hosted elsewhere, used for exchanging commits 
+
+branches = divergent paths of development, allowing isolated changes 
+
+    main (formerly known as master) the most common name for the default branch 
+
+
+clone -creates a complete local copy of a repository including its history 
+
+checkout - switches between different branches or commits in your repository 
+
+pull - downloads changes from a remote repository and merges them into your branch 
+
+push - uploads your local repository changes to a remote repository 
+
+fetch - downloads data from a remote repo without integrating it into your work 
+
+reset - undoes local changes, with options to unchange or revert commits 
+
+merge - combines multiple commit histories into one.
+
+staging files- prepares and organizes changes for a commit 
+
+    commit - saves your changes as a snapshot in the local repository 
+
+    add - add changes to the staging area for the next commit 
+
+    
+

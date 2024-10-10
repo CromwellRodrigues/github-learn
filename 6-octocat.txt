@@ -1,0 +1,17 @@
+https://myoctocat.com/
+
+If you're looking for a platform or application that supports animated GIFs, here are a few popular options:
+
+1. **Giphy**: A popular online database and search engine that allows users to search for and share animated GIF files.
+2. **Tenor**: Another widely used GIF search engine that integrates with various messaging apps.
+3. **Imgur**: A platform for sharing images and GIFs, including animated ones.
+4. **Slack**: A messaging app that supports animated GIFs through integrations like Giphy.
+5. **Discord**: A communication platform that supports animated GIFs in chats.
+
+These platforms allow you to search for, share, and embed animated GIFs in various contexts.
+
+
+the githubs octocat is the platforms official mascot.
+the character, a hybrid of an octopus and a cat,
+symbolises githubs friendly and engaging nature in the world of software development and collaboration 
+

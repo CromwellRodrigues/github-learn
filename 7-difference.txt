@@ -1,0 +1,31 @@
+
+nature  : 
+    git : distributed version control systevcm )DVCS)
+    github : version control as a service (VCaaS)
+
+
+functionality:
+
+    git : manages source code history 
+    github : provides cloud storage for git repo 
+
+
+access :
+    git : local system installation
+    github : accessed via web interface 
+
+
+scope :
+    git : local repository management
+    github : online collaboration and repo hosting 
+
+
+collaboration :
+    git : local changes, requires manual sharing 
+    github : integrated tools for collaboration (issues, PRs)
+
+
+usage :
+    git : command-line interface
+    github : graphical intergace and additional features
+

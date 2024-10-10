@@ -1,0 +1,13 @@
+alt+daffodil.luck9@gmail.com
+
+alt+ followed by an email address likely indicates an alternate or secondary email address. This is often used to specify an additional contact method or backup email.
+
+Use your original gmail address, but add +1 to it to create a “new” email that’ll still be connected to your original gmail address.
+
+(Your email)+1@gmail.com You can add +2, +3, whatever you want and they’ll all be seen as “new” addresses, but connected to your original address.
+
+https://clean.email/glossary/alternative-email-address
+
+
+https://passwordsgenerator.net/plus/
+
